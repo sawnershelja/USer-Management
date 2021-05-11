@@ -4,11 +4,10 @@ Request URL: http://localhost:8080/Fetch
 
 RequestHeader:
 content-type:application/json
+limit:10
 
 Request Body:
 {"UserName":"sheljasawner"}
-
-
 
 
 Response(Success):
