@@ -8,8 +8,8 @@ content-type:application/json
 Request Body:
 {"UserName":"sheljasawner"}
 
-Request limit:
-{"limit"=20}
+
+
 
 Response(Success):
 {"success":true}
