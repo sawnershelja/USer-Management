@@ -6,8 +6,6 @@ RequestHeader:
 content-type:application/json
 limit:10
 
-Request Body:
-{"UserName":"sheljasawner"}
 
 
 Response(Success):
